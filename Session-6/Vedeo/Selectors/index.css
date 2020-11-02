@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+
+p {
+    background-color: cornsilk;
+}
+
+#first {
+    text-decoration: underline;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.while {
+    color: red;
+}

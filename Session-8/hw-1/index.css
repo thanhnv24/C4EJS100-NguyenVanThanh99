@@ -1,0 +1,19 @@
+#main {
+    text-align: center;
+    margin-top: 25%;
+}
+
+.button {
+    background-color: dimgray;
+    color: white;
+}
+
+.span,
+.button {
+    font-size: 50px;
+    padding: 10px;
+}
+
+.button:hover {
+    background-color: rgb(255, 158, 47);
+}
